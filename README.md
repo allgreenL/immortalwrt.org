@@ -1,5 +1,5 @@
-# PROJECT OPENWRT
-## Yet another OpenWrt project based on original
+# PROJECT IMMORTALWRT
+## Yet another OpenWrt project
 ### Our Telegram Channel / Group: [@ctcgfw\_project\_openwrt](https://t.me/ctcgfw_project_openwrt) / [@ctcgfw\_openwrt\_discuss](https://t.me/ctcgfw_openwrt_discuss).
 - - -
 ## Main Members (names not listed in order)

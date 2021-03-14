@@ -7,5 +7,6 @@
 - [@CN\_SZTL](https://github.com/1715173329)
 - [@ElonH](https://github.com/ElonH)
 - [@ksong008](https://github.com/ksong008)
+- [@Lean](https://github.com/coolsnowwolf)
 - [@QiuSimons](https://github.com/QiuSimons)
 - [@zxlhhyccc](https://github.com/zxlhhyccc)
